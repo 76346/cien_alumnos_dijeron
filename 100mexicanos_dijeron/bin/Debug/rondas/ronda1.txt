@@ -1,0 +1,6 @@
+
+Metabolismo,50
+Anabolismo,20
+Catabolismo,20
+Citosol,10
+,0
